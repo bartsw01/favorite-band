@@ -2,12 +2,21 @@
   width: 30%;
   float: right;
   background-color: tan;
+  border: 2px solid black;
+  margin: 4px;
+  padding: 4px;
+
 }
 .photos {
   width: 20%;
   float: left;
+  padding: 4px;
+  border: 2px solid black;
+
 }
 .pics {
   width: 20%;
   float: right;
+  padding: 4px;
+  border: 2px solid black;
 }
