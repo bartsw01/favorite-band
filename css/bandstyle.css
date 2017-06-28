@@ -1,0 +1,13 @@
+.concerts {
+  width: 30%;
+  float: right;
+  background-color: tan;
+}
+.photos {
+  width: 20%;
+  float: left;
+}
+.pics {
+  width: 20%;
+  float: right;
+}
